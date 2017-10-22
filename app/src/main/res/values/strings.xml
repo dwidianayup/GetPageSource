@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GetPageSource</string>
+    <string-array name="Spinner">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+</resources>
